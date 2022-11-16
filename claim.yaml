@@ -1,0 +1,6 @@
+apiVersion: example.org/v1alpha1
+kind: Bucket
+metadata:
+  name: my-bucket
+spec:
+  storageGB: 5
